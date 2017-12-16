@@ -54,3 +54,12 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# other
+gradlew
+gradlew/
+gradlew.bat
+.idea/
+todo-list
+gradle/
+gradle.properties
