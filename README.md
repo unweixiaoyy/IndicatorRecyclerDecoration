@@ -1,2 +1,5 @@
 # IndicatorRecyclerDecoration
 IndicatorRecyclerDecoration
+
+支持在RecyclerView基础上增加指示器的功能，继承于RecyclerView.ItemDecoration 
+使用方式，调用RecyclerView的addItemDecoration方法即可，不影响其他的ItemDecoration。
